@@ -4,13 +4,13 @@ https://github.com/jessehoffmann/Catalog
 ## Requirements
 A bash terminal is needed to ssh into the server
 ## Deployment
-URL to the application is http://52.10.225.111.xip.io/\n
-IP address is 52.10.225.111\n
-SSH port is 2200\n
+URL to the application is http://52.10.225.111.xip.io/  
+IP address is 52.10.225.111  
+SSH port is 2200  
 Server can only be accessed with SSH key
 ## Configuration
-Firewall was enable to only allow incoming connections for SSH (port 2200), HTTP (post 80), and NTP (port 123).\n
-Password authentication disabled and key based authentication forced.\n
+Firewall was enable to only allow incoming connections for SSH (port 2200), HTTP (post 80), and NTP (port 123).  
+Password authentication disabled and key based authentication forced.  
 
 The following software was installed on the server:
 * Apache2
