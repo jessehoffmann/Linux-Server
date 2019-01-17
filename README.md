@@ -42,6 +42,7 @@ The following third-party resources were used to configure the server:
 * libapache2-mod-wsgi
 * PostgreSQL
 * Virtual Host  
+  
 The follow resources helped bring this project to fruition:
 * Amazon Lightsail
 * xip.io
